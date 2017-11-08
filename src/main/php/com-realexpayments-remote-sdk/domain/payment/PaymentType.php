@@ -16,7 +16,7 @@ class PaymentType extends EnumBase {
 	const AUTH = "auth";
 	const AUTH_MOBILE = "auth-mobile";
 	const SETTLE = "settle";
-	const MULTISETTLE = "multisettle";
+	const MULTI_SETTLE = "multisettle";
 	const VOID = "void";
 	const REBATE = "rebate";
 	const OTB = "otb";
